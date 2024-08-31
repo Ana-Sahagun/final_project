@@ -1,0 +1,109 @@
+Id,Cod_IOE,Nombre,Codigo,Url
+4,30147,Estadística de Efectos de Comercio Impagados,EI,
+6,30211,Índice de Coste Laboral Armonizado,ICLA,
+7,30168,Estadística de Transmisión de Derechos de la Propiedad,ETDP,
+10,30256,Indicadores Urbanos,UA,
+13,30219,Estadística del Procedimiento Concursal,EPC,
+14,30182,Índices de Precios del Sector Servicios,IPS,
+15,30457,Índice de Precios de la Vivienda (IPV),IPV,
+16,,Distribución de Nombres,TNOM,https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177009&menu=ultiDatos&idp=1254734710990
+18,30180,Índice de Precios de Consumo Armonizado (IPCA),IPCA,
+20,30013,Contabilidad Nacional Trimestral de España. Base 2000,CNTR2000,
+21,30259,Estimaciones de la Población Actual (ePOBa),EPOBA,
+22,30245,Cifras Oficiales de Población de los Municipios Españoles: Revisión del Padrón Municipal,DPOP,
+23,30417,Estadística de Defunciones según la Causa de Muerte,ECM,
+24,30048,Estadística Estructural de Empresas: Sector Industrial,EEE:IND,
+25,30138,Índice de Precios de Consumo (IPC),IPC,
+26,30050,Índices de Producción Industrial,IPI,
+27,30051,Índices de Precios Industriales,IPRI,
+30,,Encuesta de coyuntura de comercio al por menor. Base 1994,CCM,
+31,30183,Indicadores de Actividad del Sector Servicios,IAS,
+32,30103,Índices de Comercio al por Menor,ICM,
+33,30264,Indicadores Demográficos Básicos,IDB,
+35,,Poblaciones de hecho desde 1900 hasta 1991. Cifras oficiales sacadas de los Censos respectivos.,DPOH,
+36,,Poblaciones de derecho desde 1986 hasta 1995. Cifras oficiales sacadas del Padrón.,DPOD,
+39,30162,Encuesta de Ocupación en Alojamientos Turísticos,EOT,
+40,30149,Estadística de Hipotecas,HPT,
+41,30053,Índices de Entradas de Pedidos,IEP,
+42,30052,Índices de Cifras de Negocios en la Industria,ICN,
+43,30203,Explotación Estadística del Directorio Central de Empresas,DIR,
+44,30198,Encuesta sobre Comercio Internacional de Servicios y otras Operaciones Internacionales,ICES,
+48,30071,Índices de Precios de Exportación y de Importación de Productos Industriales,IPRX-M,
+49,,Distribución de Apellidos,APEL,https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177009&menu=ultiDatos&idp=1254734710990
+51,30019,Contabilidad Nacional Trimestral de España. Base 2008,CNTR2008,
+52,30269,Proyecciones de Población a Corto Plazo,EPOBC,
+54,30270,Proyecciones de Población a Largo Plazo,EPOBL,
+61,30222,Índice de Precios de Apartamentos Turísticos,IPAP,
+62,30223,Índice de Precios de Camping,IPAC,
+63,30229,Índice de Precios de Alojamientos de Turismo Rural,IPTR,
+66,30463,"Estadística de Nulidades, Separaciones y Divorcios",ENSD,
+71,30277,Estadística de Migraciones,EM,
+72,30321,Cifras de Población,CP,
+93,30049,Encuesta Industrial Anual de Productos,EIAP,
+104,30062,Índices de Precios de Materiales y Energía e Índices Nacionales de la Mano de Obra,IMM,
+121,30133,Encuesta Cuatrienal de Estructura Salarial,EAES:Q,
+125,30151,Estadística de Sociedades Mercantiles,SM,
+130,30177,Estadística Estructural de Empresas: Sector Servicios,EEE:SER,
+132,30179,Índice de Precios Hoteleros,IPH,
+137,30185,Índice de Precios del Trabajo,IPT,
+139,30188,Encuesta Anual de Coste Laboral,EACL,
+140,30189,Encuesta Anual de Estructura Salarial,EAES,
+155,30453,Encuesta de Condiciones de Vida (ECV),ECV,
+163,30199,Indicadores de Confianza Empresarial,ICE,
+171,30221,Estadística sobre Transporte Ferroviario,TF,
+180,30230,Indicadores de Rentabilidad del Sector Hotelero,IRSH,
+197,30271,Tablas de Mortalidad,TM,
+205,30310,Flujos de la Población Activa,EFPA,
+212,30465,Estadística de Juzgados de Paz,EJP,
+213,30466,Estadística de Condenados: Adultos,CONA,
+214,30467,Estadística de Condenados: Menores,CONM,
+215,30468,Estadística de Violencia Doméstica y Violencia de Género,VGD,
+234,30209,Estadística de Movilidad Laboral y Geográfica,EMLG,
+237,30024,Contabilidad Nacional Trimestral de España: Principales Agregados,CNTR2010,
+238,30235,Encuesta de Ocupación Hotelera,EOH,
+239,30236,Encuesta de Ocupación en Apartamentos Turísticos,EOAP,
+240,30237,Encuesta de Ocupación en Campings,EOAC,
+241,30238,Encuesta de Ocupación en Alojamientos de Turismo Rural,EOTR,
+246,30026,Cuentas Trimestrales no Financieras de los Sectores Institucionales,CTNFSI,
+247,30023,Contabilidad Nacional de España. Base 2010,CNE,
+249,30063,Encuesta Coyuntural sobre Stocks y Existencias,ECSE,
+250,30234,Índice de Producción del Sector Servicios,IPSS,https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177099&menu=ultiDatos&idp=1254735576778
+254,30220,Índice de ingresos hoteleros,IIH,
+256,30232,Estadística Estructural de Empresas: Sector Comercio,EEE:COM,
+258,30083,Índice de Cifra de Negocios Empresarial,ICNE,
+259,30153,Estadística sobre Ejecuciones Hipotecarias,EH,
+293,30308,Encuesta de Población Activa (EPA),EPA,
+297,30163,Estadística de Transporte de Viajeros,TV,
+303,30187,Encuesta Trimestral de Coste Laboral (ETCL),ETCL,
+305,30302,MNP Estadística de Matrimonios,MNPM,
+307,30304,MNP Estadística de Nacimientos,MNPN,
+309,30306,MNP Estadística de Defunciones,MNPD,
+314,30458,Encuesta de Presupuestos Familiares (EPF),EPF,
+328,30239,Encuesta de Ocupación en Albergues,EOA,
+329,16029,Encuesta de Gasto Turístico,EG,
+330,16028,Movimientos Turísticos en Fronteras,FR,
+331,,Índice de Garantía de la Competitividad,IGC,https://www.ine.es/ss/Satellite?c=Page&cid=1259947704944&pagename=ProductosYServicios%2FPYSLayout&L=0&p=1254735893337
+333,30456,Mujeres y Hombres en España,MYH,
+334,16023,Encuesta de turismo de residentes,ETR,
+336,30279,Estadística de Adquisiciones de Nacionalidad Española de Residentes,ANES,
+345,30030,Contabilidad nacional anual de España: agregados por rama de actividad,CNEAG,
+353,30325,Atlas de Distribución de Renta de los Hogares,ADRH,https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177088&menu=ultiDatos&idp=1254735976608
+402,,Movilidad COVID19,MMOV,https://www.ine.es/experimental/movilidad/experimental_em.htm
+406,30324,Estimacion del numero de defunciones semanales (EDeS),EDES,https://www.ine.es/experimental/defunciones/experimental_defunciones.htm
+407,,Encuesta Cuatrienal de Estructural Salarial,EAES:Q,
+410,,Viviendas turísticas en España,VTE,https://www.ine.es/experimental/viv_turistica/experimental_viv_turistica.htm
+412,,Distribución del gasto en destino realizado por los visitantes extranjeros en sus visitas a España,GDVE,https://www.ine.es/experimental/gasto_tarjetas/trimestral.htm
+424,30323,Estimación Mensual de Nacimientos,EMN,https://www.ine.es/experimental/nacimientos/experimental_nacimientos.htm
+425,,Comercio diario al por menor de grandes empresas,CDMGE,https://www.ine.es/experimental/cdmge/
+426,,Coyuntura demográfica de empresas,CODEM,https://www.ine.es/experimental/codem/experimental_codem.htm
+429,,Ocupación en alojamientos turísticos,OAT,https://www.ine.es/experimental/ocupacion/experimental_ocupacion.htm
+432,,Índice de Precios de Vivienda en Alquiler,IPVA,
+433,,Indicador Multidimensional de Calidad de Vida,IMCV,https://www.ine.es/experimental/imcv/experimental_ind_multi_calidad_vida.htm
+436,,Medición del turismo receptor a partir de la posición de los teléfonos móviles,TMOV,https://www.ine.es/experimental/turismo_moviles/experimental_turismo_moviles.htm#!turismo_receptor
+437,,Medición del turismo emisor a partir de la posición de los teléfonos móviles,TMOV,https://www.ine.es/experimental/turismo_moviles/experimental_turismo_moviles.htm#!turismo_emisor
+438,,Medición del turismo interno interprovincial a partir de la posición de los teléfonos móviles,TMOV,https://www.ine.es/experimental/turismo_moviles/experimental_turismo_moviles_interno.htm
+450,30282,Estadística Continua de Población,ECP,https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981
+452,,Distribución del gasto realizado por los residentes en sus visitas al Extranjero según país de destino,GDRE,https://www.ine.es/experimental/turismo_gasto/turistas_residentes_gasto_extranjero.htm
+455,30283,Estadística de Migraciones y Cambios de Residencia,EMCR,https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177098&menu=ultiDatos&idp=1254735573002
+464,30098,Comercio Internacional de Servicios por Modos de Suministro (MoS),MOS,
+465,30240,Comercio Internacional de Servicios por Características de las Empresas (STEC),STEC,
